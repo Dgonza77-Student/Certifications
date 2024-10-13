@@ -1,37 +1,19 @@
-**# Digital-Forensic-Image-Analyzation**
+**Certifications**
 
-## Objective
+## Google Cybersecurity
+
+![image](https://github.com/user-attachments/assets/1848dfe3-a49f-456a-9cba-71305c51c61c)
+
+## Aviatrix Certified Engineer Multicloud Network Associate certification
+![image](https://github.com/user-attachments/assets/740252bd-f9ab-4553-97e9-f25d1d225f55)
+
+## Qualys Vulnerability Management Foundation
+![image](https://github.com/user-attachments/assets/c16ce8f1-47bb-443a-a265-1c85faef6924)
+
+## NDG Linux Unhatched
+![image](https://github.com/user-attachments/assets/204543f3-de2b-4666-8abb-4c8811d6e529)
+
+## Cisco Introduction to Cybersecurity
+![image](https://github.com/user-attachments/assets/caca3dfd-6e6a-4469-94d9-8e2b608fdff6)
 
 
-The projects objective is to utilize Autopsy, an open-source digital forensic tool, to analyze a suspects image file. Be doing so, the exercise, aims to practice the fundamental skills of image analysis by performing tasks like importing and analyzing image files for potential 
-forensic evidence. This project focused on file recovery, tagging and reporting using built-in capabilities of Autopsy, as well as enhancing understanding of digital forensics principles
-
-### Skills Learned
-
-- Proficiency in using Autopsy for digital forensic investigations.
-- Ability to import and examine digital image files.
-- Understanding of file systems and forensic evidence extraction.
-- Hands-on experience in tagging and documenting evidence.
-- Knowledge of generating forensic reports using Autopsy.
-
-### Tools Used
-
-- Autopsy (GUI for The Sleuth Kit) for image analysis.
-- HashCalc for calculating hash values.
-
-## Steps
-Ref 1: Autopsy Interface During Investigation
-
-The project started with downloading and installing Autopsy on a Windows environment. Once installed, I imported a suspect image file (suspectdrive.img) into Autopsy for analysis.
-
-Ref 2: Importing the Image File
-
-After the image was successfully imported, I began to examine the file for hidden or deleted content. Autopsy’s ability to detect hidden and deleted files enabled a more thorough investigation.
-
-Ref 3: Listing Hidden Files
-
-By navigating the file tree, I uncovered deleted files and other critical data that could serve as potential evidence. Using Autopsy’s tagging feature, I was able to mark files relevant to the investigation for future reference.
-
-Ref 4: Tagging Files
-
-Finally, I generated an HTML report summarizing the findings, which included tagged files and analysis results, ready for submission.
