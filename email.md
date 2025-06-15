@@ -8,7 +8,7 @@ Based on our initial vulnerability scan and assessment, we have created a set of
 1. [**Third-Party Software Removal (Wireshark)**](https://github.com/Dgonza77-Student/Python-Scripting/blob/main/Wiresharkscript.ps1)
 2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/Dgonza77-Student/Python-Scripting/blob/main/insecureprotocols.ps)
 3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/Dgonza77-Student/Python-Scripting/blob/main/insecureciphersuite.ps1)
-4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/Dgonza77-Student/Python-Scripting/tree/main))
+4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/Dgonza77-Student/Python-Scripting/blob/main/guesttoggle.ps1)
 
 Let me know if you have any questions or need any adjustments!
 
